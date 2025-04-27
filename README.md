@@ -37,3 +37,17 @@ It uses historical stock data to learn dynamic trading strategies, aiming to max
 
 ## 🛠️ Project Structure
 
+RL-Trading-Bot/
+├── data/
+    ├── stock_data.csv
+├── models/
+    ├── ppo_model.zip
+├── trading_logs/
+    ├── trading_history.csv
+├── environment.py
+├── train.py
+├── evaluate.py
+├── requirements.txt
+├── README.md
+
+
