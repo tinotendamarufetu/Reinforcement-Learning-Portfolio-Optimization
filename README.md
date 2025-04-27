@@ -30,6 +30,9 @@ It uses historical stock data to learn dynamic trading strategies, aiming to max
 - Drawdown Plot (% from peak)
 - Rolling Sharpe Ratio (volatility-adjusted returns)
 
+![image](https://github.com/user-attachments/assets/dbbd120b-12c6-4e58-8698-2fa330addcbf)
+
+
 ---
 
 ## 🛠️ Project Structure
